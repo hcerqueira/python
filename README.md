@@ -1,2 +1,2 @@
 # python
-Referente ao curso de SI na Universidade do Estado da Bahia
+Algoritmos efetuados usando a linguagem python. Além de conteúdos de aulas e jogos.
